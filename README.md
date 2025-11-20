@@ -1,1 +1,1 @@
-# Autoencoders-to-classify-MRI--Alzheimer-datasets-
+Semi-Supervised Autoencoder for Alzheimer’s MRI Classification
